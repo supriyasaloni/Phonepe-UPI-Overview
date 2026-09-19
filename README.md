@@ -128,3 +128,6 @@ The dashboard can be used to understand:
 ## 📷 Dashboard Preview
 
 
+
+<img width="1151" height="495" alt="Screenshot 2026-09-19 141717" src="https://github.com/user-attachments/assets/70608c5f-785b-4acf-922b-62c4e285589e" />
+
