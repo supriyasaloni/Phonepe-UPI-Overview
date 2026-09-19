@@ -127,15 +127,4 @@ The dashboard can be used to understand:
 
 ## 📷 Dashboard Preview
 
-![UPI Transactions Dashboard](dashboard.png)
 
----
-
-## 📂 Project Structure
-
-```text
-UPI-Transactions-Dashboard/
-│
-├── UPI_Transactions_Dashboard.xlsx
-├── dashboard.png
-└── README.md
